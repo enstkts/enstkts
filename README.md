@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">A passionate Web3 from Turkey</h3>
+<h3 align="center">A passionate engineer to web3 from Turkey</h3>
 
 - 🌱 I’m currently learning **solidity**
 
